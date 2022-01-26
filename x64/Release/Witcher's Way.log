@@ -1,0 +1,30 @@
+﻿  pch.cpp
+  dllmain.cpp
+D:\The-Shining\70xH\Witcher's Way\dllmain.cpp(9,17): error C2485: 'naked': unrecognized extended attribute
+D:\The-Shining\70xH\Witcher's Way\dllmain.cpp(11,5): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+D:\The-Shining\70xH\Witcher's Way\dllmain.cpp(12,9): error C2065: 'push': undeclared identifier
+D:\The-Shining\70xH\Witcher's Way\dllmain.cpp(12,14): error C2146: syntax error: missing ';' before identifier 'eax'
+D:\The-Shining\70xH\Witcher's Way\dllmain.cpp(12,14): error C2065: 'eax': undeclared identifier
+D:\The-Shining\70xH\Witcher's Way\dllmain.cpp(13,9): error C2146: syntax error: missing ';' before identifier 'mov'
+D:\The-Shining\70xH\Witcher's Way\dllmain.cpp(13,9): error C2065: 'mov': undeclared identifier
+D:\The-Shining\70xH\Witcher's Way\dllmain.cpp(13,13): error C2146: syntax error: missing ';' before identifier 'eax'
+D:\The-Shining\70xH\Witcher's Way\dllmain.cpp(13,13): error C2065: 'eax': undeclared identifier
+D:\The-Shining\70xH\Witcher's Way\dllmain.cpp(13,23): error C2143: syntax error: missing ']' before '+'
+D:\The-Shining\70xH\Witcher's Way\dllmain.cpp(13,23): error C3481: 'ecx': lambda capture variable not found
+D:\The-Shining\70xH\Witcher's Way\dllmain.cpp(13,23): error C3260: '+': skipping unexpected token(s) before lambda body
+D:\The-Shining\70xH\Witcher's Way\dllmain.cpp(37,1): warning C4311: 'type cast': pointer truncation from 'HMODULE' to 'DWORD'
+D:\The-Shining\70xH\Witcher's Way\dllmain.cpp(37,1): warning C4302: 'type cast': truncation from 'HMODULE' to 'DWORD'
+D:\The-Shining\70xH\Witcher's Way\dllmain.cpp(46,1): warning C4312: 'type cast': conversion from 'int' to 'void *' of greater size
+D:\The-Shining\70xH\Witcher's Way\dllmain.cpp(62,1): warning C4312: 'type cast': conversion from 'int' to 'void *' of greater size
+D:\The-Shining\70xH\Witcher's Way\dllmain.cpp(66,39): error C2065: 'hModule': undeclared identifier
+D:\The-Shining\70xH\Witcher's Way\dllmain.cpp(71,1): error C2146: syntax error: missing ';' before identifier 'BOOL'
+D:\The-Shining\70xH\Witcher's Way\dllmain.cpp(71,15): error C2601: 'DllMain': local function definitions are illegal
+D:\The-Shining\70xH\Witcher's Way\dllmain.cpp(88,1): fatal error C1004: unexpected end-of-file found
+  HackHook.cpp
+D:\The-Shining\70xH\Witcher's Way\HackHook.cpp(19,50): warning C4311: 'type cast': pointer truncation from 'void *' to 'DWORD'
+D:\The-Shining\70xH\Witcher's Way\HackHook.cpp(19,50): warning C4302: 'type cast': truncation from 'void *' to 'DWORD'
+D:\The-Shining\70xH\Witcher's Way\HackHook.cpp(19,68): warning C4311: 'type cast': pointer truncation from 'void *' to 'DWORD'
+D:\The-Shining\70xH\Witcher's Way\HackHook.cpp(19,68): warning C4302: 'type cast': truncation from 'void *' to 'DWORD'
+D:\The-Shining\70xH\Witcher's Way\HackHook.cpp(23,32): warning C4311: 'type cast': pointer truncation from 'void *' to 'DWORD'
+D:\The-Shining\70xH\Witcher's Way\HackHook.cpp(23,32): warning C4302: 'type cast': truncation from 'void *' to 'DWORD'
+D:\The-Shining\70xH\Witcher's Way\HackHook.cpp(23,37): warning C4312: 'type cast': conversion from 'DWORD' to 'DWORD *' of greater size

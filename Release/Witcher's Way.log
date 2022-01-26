@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  dllmain.cpp
+  HackHook.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 8 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Witcher's Way.vcxproj -> D:\The-Shining\70xH\Witcher's Way\Release\Witcher's Way.dll
